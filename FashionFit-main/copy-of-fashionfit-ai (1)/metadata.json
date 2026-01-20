@@ -1,0 +1,7 @@
+{
+  "name": "Copy of FashionFit AI",
+  "description": "An AI-powered virtual try-on platform for dresses and hairstyles using MediaPipe body detection and Gemini recommendations.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
